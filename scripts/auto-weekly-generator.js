@@ -604,7 +604,7 @@ async function generateWeeklyContent(weeklyData, weekNumber, startDate, endDate)
 
 ---
 
-*本期编辑：PAAS-AIOPS助手 | 数据统计截止：${endStr}* 🦞`
+*本期编辑：AIOPS助手 | 数据统计截止：${endStr}* 🦞`
 
   return content
 }
