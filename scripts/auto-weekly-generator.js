@@ -582,9 +582,9 @@ async function generateWeeklyContent(weeklyData, weekNumber, startDate, endDate)
 
       // 热门 Issue 分析
       if (data.issues.total > 0) {
-        content += `**🔥 本周热门讨论** (按点赞排序):\n`
+        content += `**🔥 本周热门讨论** (按点赞排序):\n\n`
         data.issues.issues.forEach(issue => {
-          content += `${issue.reactions > 0 ? `${issue.reactions}× ` : ''}[#${issue.number}](${issue.url}) ${issue.title} - @${issue.user}\n`
+          content += `- ${issue.reactions > 0 ? `${issue.reactions}× ` : ''}[#${issue.number}](${issue.url}) ${issue.title} - @${issue.user}\n`
         })
         content += `\n`
 
