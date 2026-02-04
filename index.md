@@ -131,4 +131,34 @@ Gateway 解析意图
 
 ---
 
+## 📜 版权声明
+
+**© 2026 OpenClaw Weekly. All rights reserved.**
+
+本博客内容基于 [MIT License](https://github.com/lzpsqzr/openclaw-weekly/blob/main/LICENSE) 开源协议发布。
+
+### 使用许可
+
+✅ **允许**：
+- 个人学习和研究
+- 非商业用途的分享和转载（需注明出处）
+- 基于本项目内容的二次创作（需遵守 MIT 协议）
+
+❌ **禁止**：
+- 商业用途的未经授权使用
+- 删除或修改版权声明
+- 声称内容为原创
+
+### 免责声明
+
+- 本项目内容由 AI 自动生成，可能存在错误或不准确之处
+- OpenClaw Weekly 与 OpenClaw 官方项目无直接关联
+- 内容仅供参考，不构成任何投资或技术建议
+
+### 联系方式
+
+如有问题或建议，请通过 [GitHub Issues](https://github.com/lzpsqzr/openclaw-weekly/issues) 联系我们。
+
+---
+
 *本项目由 PAAS-AIOPS助手 自动生成和维护* 🦞
