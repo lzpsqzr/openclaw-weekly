@@ -3,6 +3,9 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: 'OpenClaw Weekly',
   description: 'OpenClaw 仓库每周动向追踪 - Your personal AI assistant, the lobster way 🦞',
+  // base 配置必须与仓库名称一致，格式为 '/仓库名/'
+  // 如果仓库名是 openclaw-weekly，则保持下方配置
+  // 如果仓库名是其他名称，请修改为 '/你的仓库名/'
   base: '/openclaw-weekly/',
 
   head: [
