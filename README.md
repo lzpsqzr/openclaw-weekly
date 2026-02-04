@@ -1,5 +1,8 @@
 # OpenClaw Weekly - OpenClaw生态每周动向追踪 🦞
 
+[![Visit Blog](https://img.shields.io/badge/🌐-访问在线博客-blue?style=for-the-badge&logo=vitepress)](https://lzpsqzr.github.io/openclaw-weekly/)
+[![GitHub](https://img.shields.io/badge/📦-查看源码-black?style=for-the-badge&logo=github)](https://github.com/lzpsqzr/openclaw-weekly)
+
 本项目追踪 [OpenClaw](https://github.com/openclaw/openclaw) 官方仓库的每周动向，深入了解个人AI助手的核心概念、最佳实践和前沿发展 - **The lobster way!**
 
 ## 🦞 项目愿景
