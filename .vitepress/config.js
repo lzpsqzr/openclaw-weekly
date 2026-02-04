@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: 'OpenClaw Weekly',
   description: 'OpenClaw 仓库每周动向追踪 - Your personal AI assistant, the lobster way 🦞',
-  base: '/',
+  base: '/openclaw-weekly/',
 
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }]
