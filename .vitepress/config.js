@@ -19,19 +19,36 @@ export default defineConfig({
 
     nav: [
       { text: '首页', link: '/' },
-      { text: '周报列表', link: '/docs/05' },
+      { text: '周报列表', link: '/docs/08' },
       { text: 'OpenClaw官网', link: 'https://openclaw.ai/' },
       { text: 'GitHub', link: 'https://github.com/openclaw/openclaw' }
     ],
 
     sidebar: [
       {
-        text: '2026年1月',
+        text: '2026年2月',
         items: [
+          {
+            text: '第8期：2026年2月16日-2026年2月23日',
+            link: '/docs/08'
+          },
+          {
+            text: '第7期：2026年2月9日-2026年2月16日',
+            link: '/docs/07'
+          },
+          {
+            text: '第6期：2026年2月2日-2026年2月9日',
+            link: '/docs/06'
+          },
           {
             text: '第5期：2026年1月26日-2026年2月2日',
             link: '/docs/05'
-          },
+          }
+        ]
+      },
+      {
+        text: '2026年1月',
+        items: [
           {
             text: '第4期：2026年1月19日-2026年1月26日',
             link: '/docs/04'
