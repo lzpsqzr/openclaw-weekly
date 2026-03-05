@@ -19,12 +19,21 @@ export default defineConfig({
 
     nav: [
       { text: '首页', link: '/' },
-      { text: '周报列表', link: '/docs/08' },
+      { text: '周报列表', link: '/docs/09' },
       { text: 'OpenClaw官网', link: 'https://openclaw.ai/' },
       { text: 'GitHub', link: 'https://github.com/openclaw/openclaw' }
     ],
 
     sidebar: [
+      {
+        text: '2026年3月',
+        items: [
+          {
+            text: '第9期：2026年2月23日-2026年3月2日',
+            link: '/docs/09'
+          }
+        ]
+      },
       {
         text: '2026年2月',
         items: [
